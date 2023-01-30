@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portafolio-Personal/static/css/main.3f5e566f.css",
+    "main.js": "/Portafolio-Personal/static/js/main.0c9c40f2.js",
+    "static/js/787.62d438e1.chunk.js": "/Portafolio-Personal/static/js/787.62d438e1.chunk.js",
+    "static/media/background4.0.jpeg": "/Portafolio-Personal/static/media/background4.0.da9f884bf6f623bf3724.jpeg",
+    "static/media/Buscador_Imagenes_2.jpeg": "/Portafolio-Personal/static/media/Buscador_Imagenes_2.99202b771c820c2beba2.jpeg",
+    "static/media/Buscador_Imagenes_3.jpeg": "/Portafolio-Personal/static/media/Buscador_Imagenes_3.d7c0d04347354401ddd5.jpeg",
+    "static/media/jardy2.0.jpeg": "/Portafolio-Personal/static/media/jardy2.0.4f92ffc8da97f45d5d4e.jpeg",
+    "static/media/Carrito_compras_2.jpeg": "/Portafolio-Personal/static/media/Carrito_compras_2.183743e911c8ab531317.jpeg",
+    "static/media/Carrito_compras_1.jpeg": "/Portafolio-Personal/static/media/Carrito_compras_1.922dfdf18fdfda348a1a.jpeg",
+    "static/media/Calculadora_1.jpeg": "/Portafolio-Personal/static/media/Calculadora_1.a58dfdc7be3d3afae8ef.jpeg",
+    "static/media/Calculadora_2.jpeg": "/Portafolio-Personal/static/media/Calculadora_2.b0fb0906a62bde793f1f.jpeg",
+    "static/media/Buscador_Imagenes_1.jpeg": "/Portafolio-Personal/static/media/Buscador_Imagenes_1.08ce00d9a776b9cf7e95.jpeg",
+    "index.html": "/Portafolio-Personal/index.html",
+    "main.3f5e566f.css.map": "/Portafolio-Personal/static/css/main.3f5e566f.css.map",
+    "main.0c9c40f2.js.map": "/Portafolio-Personal/static/js/main.0c9c40f2.js.map",
+    "787.62d438e1.chunk.js.map": "/Portafolio-Personal/static/js/787.62d438e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f5e566f.css",
+    "static/js/main.0c9c40f2.js"
+  ]
+}
